@@ -1,0 +1,10 @@
+.navbar-brand{
+    color: #a14605;
+    font-weight: 900;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
+    color: #c85808;
+}
+
+/* Ctrl Shift R*/
